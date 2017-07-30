@@ -141,3 +141,12 @@ typings/
 # dotenv environment variables file
 .env
 
+.DS_Store
+npm-debug.log
+compiled/
+dist/
+build/
+coverage/
+.idea
+yarn.lock
+/.vscode
